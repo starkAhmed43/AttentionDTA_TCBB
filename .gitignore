@@ -1,0 +1,7 @@
+data/
+*.ipynb
+wandb/
+__pycache__/
+attn_dta_pred_*/
+*.log
+logs/
