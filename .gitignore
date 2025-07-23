@@ -5,3 +5,4 @@ __pycache__/
 attn_dta_pred_*/
 *.log
 logs/
+lightning_logs/
